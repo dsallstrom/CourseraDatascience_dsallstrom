@@ -5,4 +5,4 @@
 # It contains: 
 #   My script, the cleaned dataset, the cleaned dataset with the calculated means, and the codebook. The data are comma delimited text files. 
 
-# For more information on the datasets, see the codebook.
+# For more information on the data, see the codebook. The script should run by itself.
