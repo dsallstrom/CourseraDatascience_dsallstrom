@@ -107,5 +107,5 @@ Means <- function(){
 
 Dta3 <- Means()
 
-write.csv(Dta2, "MovementData")
-write.csv(Dta3, "MovementDataMeans")
+write.table(Dta2, "MovementData", row.name=FALSE)
+write.table(Dta3, "MovementDataMeans", row.name=FALSE)
